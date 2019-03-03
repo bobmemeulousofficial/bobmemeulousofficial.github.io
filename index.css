@@ -1,4 +1,19 @@
-.aboutme{
+.aboutme {
     background-color: yellow;
     color:blue; 
-    }
+}
+
+.guy {
+    width: 20%;
+    float:right;
+}
+
+.guy img {
+    position: relative;
+    top: 100px;
+}
+
+.left-float {
+    width: 80%;
+    float: left;
+}
