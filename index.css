@@ -1,19 +1,4 @@
-.aboutme {
-    background-color: yellow;
-    color:blue; 
-}
-
-.guy {
-    width: 20%;
-    float:right;
-}
-
-.guy img {
-    position: relative;
-    top: 100px;
-}
-
-.left-float {
-    width: 80%;
-    float: left;
+body {
+    background: url(https://pixelz.cc/wp-content/uploads/2018/07/logitech-logo-uhd-4k-wallpaper.jpg);
+    background-size: auto;
 }
